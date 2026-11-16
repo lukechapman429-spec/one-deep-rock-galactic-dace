@@ -199,7 +199,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Deep Rock Galactic · Updated 2026-11-15 · Shared under the MIT License*
+*Deep Rock Galactic · Updated 2026-11-16 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-15*
+*Last updated: 2026-11-16*
